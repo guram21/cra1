@@ -4,7 +4,7 @@ import './App.css';
 function Logo() {
   return (
     <div className='logo'>
-      Logo
+      <strong>Logo</strong>
     </div>
   );
 }

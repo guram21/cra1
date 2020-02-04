@@ -5,9 +5,7 @@ import Logo from './Logo';
 function Footer() {
   return (
     <div className='footer'>
-      <div className='logo'>
         <Logo/>
-      </div>
     </div>
   );
 }

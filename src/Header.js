@@ -6,8 +6,8 @@ import Menu from './Menu';
 function Header() {
   return (
     <div className='header'>
-      <Logo/>
-      <Menu/>
+        <Logo/>
+        <Menu/>
     </div>
   );
 }

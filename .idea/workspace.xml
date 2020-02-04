@@ -1,9 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDTpysx3LJun28bOBgjGOHaOFO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="" />
+      <created>1580596327095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580596327095</updated>
+      <workItem from="1580596337762" duration="1736000" />
+      <workItem from="1580764380327" duration="40000" />
+      <workItem from="1580764466943" duration="77000" />
+      <workItem from="1580764613413" duration="1766000" />
+      <workItem from="1580780271049" duration="5730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="BRANCHES_LOG">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom" timestamp="1580785500881">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500881" />
+    <state width="1143" height="424" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1580780031997" />
+    <state width="2539" height="424" key="GridCell.Tab.0.center" timestamp="1580785500879">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500879" />
+    <state width="1143" height="424" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1580780031996" />
+    <state width="2539" height="424" key="GridCell.Tab.0.left" timestamp="1580785500878">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500878" />
+    <state width="1143" height="424" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1580780031995" />
+    <state width="2539" height="424" key="GridCell.Tab.0.right" timestamp="1580785500880">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="424" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500880" />
+    <state width="1143" height="424" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1580780031997" />
+    <state x="789" y="359" key="SettingsEditor" timestamp="1580765216459">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1580765216459" />
+    <state x="789" y="376" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1580599321201" />
+    <state x="999" y="530" key="git4idea.merge.GitPullDialog" timestamp="1580780329318">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="999" y="515" key="git4idea.merge.GitPullDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1580765229678" />
+    <state x="999" y="530" key="git4idea.merge.GitPullDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1580780329318" />
   </component>
 </project>

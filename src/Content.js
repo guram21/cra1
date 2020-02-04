@@ -4,7 +4,7 @@ import './App'
 function Content() {
   return (
     <div className='content'>
-      Content
+      <strong>Content</strong>
     </div>
   );
 }

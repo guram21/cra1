@@ -6,7 +6,7 @@ import Content from './Content';
 
 function App() {
   return (
-    <div className='body'>
+    <div>
       <Header/>
       <Content/>
       <Footer/>
