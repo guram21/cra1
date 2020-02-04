@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import MenuItem from "./MenuItem";
+import MenuItem from './MenuItem';
 
 function Menu() {
   return (
-    <div className="App-menu">
+    <div className='menu'>
       <MenuItem/>
       <MenuItem/>
       <MenuItem/>

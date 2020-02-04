@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Logo from "./Logo";
-import Menu from "./Menu";
+import Logo from './Logo';
+import Menu from './Menu';
 
 function Header() {
   return (
-    <div className="App-header">
+    <div className='header'>
       <Logo/>
       <Menu/>
     </div>

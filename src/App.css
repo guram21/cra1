@@ -1,23 +1,21 @@
-.App {
-  height: 100vh;
+.body {
   text-align: center;
   display: flex;
   flex-direction: column;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #000000;
 }
-.App-header {
-  background-color: darkblue;
+.header {
+  border-bottom: solid;
+  border-bottom-color: #d9d9d9;
   min-height:100px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: space-between;
-  font-size: 10px;
-  color: white;
+  font-size: 16px;
 }
-.App-link {
-  color: #61dafb;
-}
-.App-logo {
+.logo {
   pointer-events: none;
   height: 100px;
   width: 100px;
@@ -25,112 +23,35 @@
   justify-content: center;
   align-items: center;
 }
-.App-menu{
+.menu{
   display: flex;
   height: 100px;
-  width: 275px;
-  /*justify-content: space-between;*/
-  flex-direction: row;
-  background-color: powderblue;
-}
-.App-menu-item{
-  height: 98px;
   width: 100%;
-  border : darkblue 1px solid;
-  color: darkblue;
+  flex-direction: row;
+}
+.menuItem{
+  height: 100px;
+  width: 100%;
+  border: #a9a9a9;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 10px;
+  font-size: 16px;
 }
-.App-content{
+.content{
   display: flex;
   height: 460px;
-  background: steelblue;
-  color: #61dafb;
   justify-content: center;
   align-items: center;
-  font-size: 50px;
+  font-size: 16px;
 }
-.App-footer{
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
+.footer{
+  border-top: solid;
+  border-top-color: #d9d9d9;
   height: 100px;
-  background-color: darkblue;
-}
-.Footer-paragraph{
-  width: 275px;
   display: flex;
-  align-items: center;
-  font-size: 50px;
-  color: #61dafb;
-}
-@media (min-width: 992px) {
-  .App {
-    height: 100vh;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-  }
-  .App-header {
-    background-color: darkblue;
-    min-height:200px;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-    justify-content: space-between;
-    font-size: 20px;
-    color: white;
-  }
-  .App-logo {
-    pointer-events: none;
-    height: 200px;
-    width: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .App-menu{
-    display: flex;
-    height: 200px;
-    width: 100%;
-    justify-content: space-between;
-    align-content: flex-end;
-    flex-direction: row;
-    background-color: powderblue;
-  }
-  .App-menu-item{
-    height: 196px;
-    width: 100%;
-    border: darkblue 2px solid;
-    color: darkblue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 50px;
-  }
-  .App-content{
-    display: flex;
-    height: 900px;
-    background: steelblue;
-    color: #61dafb;
-    justify-content: center;
-    align-items: center;
-    font-size: 100px;
-  }
-  .App-footer{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    height: 200px;
-    background-color: darkblue;
-  }
-  .Footer-paragraph{
-    width: 1100px;
-    display: flex;
-    align-items: center;
-    font-size: 100px;
-    color: #61dafb;
-  }
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 16px;
 }

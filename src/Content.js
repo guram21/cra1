@@ -3,7 +3,7 @@ import './App'
 
 function Content() {
   return (
-    <div className='App-content'>
+    <div className='content'>
       Content
     </div>
   );

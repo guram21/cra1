@@ -3,7 +3,7 @@ import './App.css';
 
 function Logo() {
   return (
-    <div className="App-logo">
+    <div className='logo'>
       Logo
     </div>
   );
