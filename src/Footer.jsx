@@ -1,12 +1,14 @@
 import React from 'react';
-import './App.css';
 import Logo from './Logo';
 
 function Footer() {
   return (
-    <div className='footer'>
-        <Logo/>
-    </div>
+    <footer>
+      <div className="container">
+        <Logo />
+        Footer
+      </div>
+    </footer>
   );
 }
 

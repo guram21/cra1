@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
 
 function Logo() {
   return (
     <div className='logo'>
-      <strong>Logo</strong>
+      Logo
     </div>
   );
 }
+
 export default Logo;
