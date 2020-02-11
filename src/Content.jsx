@@ -1,18 +1,25 @@
 import React from 'react';
 
 function Content() {
+
+  const clickButtonHandler = (value) => {
+    console.log('Clicked! ' + value)
+  }
+
+  const inputHandler = (event) => {
+    console.log(event.target.value)
+  }
+
   return (
     <main>
       <div className="container">
         <h1>First app</h1>
-        <p>
-          Various buttons are supported as part of these navbar forms, too. This is also a great reminder that vertical alignment utilities can be used to align different sized elements.
-          Various buttons are supported as part of these navbar forms, too. This is also a great reminder that vertical alignment utilities can be used to align different sized elements.
-        </p>
-        <p>
-          Various buttons are supported as part of these navbar forms, too. This is also a great reminder that vertical alignment utilities can be used to align different sized elements.
-          Various buttons are supported as part of these navbar forms, too. This is also a great reminder that vertical alignment utilities can be used to align different sized elements.
-        </p>
+        <h1>First app</h1>
+        <input type="text" onChange={inputHandler}/>
+
+        <button onClick={() => clickButtonHandler(1)}>Add one</button>
+        <button onClick={() => clickButtonHandler(2)}>Add two</button>
+
       </div>
     </main>
   );

@@ -1,14 +1,11 @@
 import React from 'react';
 import MenuItem from './MenuItem';
 
-function Menu() {
+function Menu(props) {
   return (
     <nav>
       <ul>
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
+        {props.items.map(el => <MenuItem key={el.text} MenuItem={el} abc='123' />)}
       </ul>
 
     </nav>

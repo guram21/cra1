@@ -1,9 +1,9 @@
 import React from 'react';
 
-function MenuItem() {
+function MenuItem(props) {
   return (
     <li>
-      MenuItem
+      <a href={props.MenuItem.link}>{props.MenuItem.text}</a>
     </li>
   );
 }

@@ -20,20 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +95,16 @@
       <workItem from="1580788653929" duration="500000" />
       <workItem from="1580847968439" duration="12000" />
       <workItem from="1580870374600" duration="3819000" />
-      <workItem from="1581179212541" duration="1677000" />
+      <workItem from="1581179212541" duration="11520000" />
     </task>
+    <task id="LOCAL-00001" summary="Project cra1 refactored">
+      <created>1581182033974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581182033974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,11 +128,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project cra1 refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project cra1 refactored" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1581181990586">
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1581182033482">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581181990586" />
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581182033482" />
     <state width="627" height="218" key="GridCell.Tab.0.bottom" timestamp="1581180528343">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -165,6 +170,10 @@
     </state>
     <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1580765216459" />
     <state x="789" y="376" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1580599321201" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1581182042061">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1581182042061" />
     <state x="999" y="530" key="git4idea.merge.GitPullDialog" timestamp="1580780329318">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
