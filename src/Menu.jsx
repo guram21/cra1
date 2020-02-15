@@ -1,15 +1,14 @@
-import React from 'react';
-import MenuItem from './MenuItem';
+import React from 'react'
+import MenuItem from './MenuItem'
 
-function Menu(props) {
+function Menu (props) {
   return (
     <nav>
       <ul>
-        {props.items.map(el => <MenuItem key={el.text} MenuItem={el} abc='123' />)}
+        {props.menuItems.map(el => <MenuItem key={el.text} MenuItem={el}/>)}
       </ul>
-
     </nav>
-  );
+  )
 }
 
-export default Menu;
+export default Menu

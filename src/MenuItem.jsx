@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
-function MenuItem(props) {
+function MenuItem (props) {
   return (
     <li>
       <a href={props.MenuItem.link}>{props.MenuItem.text}</a>
     </li>
-  );
+  )
 }
 
-export default MenuItem;
+export default MenuItem
