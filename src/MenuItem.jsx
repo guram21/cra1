@@ -3,7 +3,7 @@ import React from 'react'
 function MenuItem (props) {
   return (
     <li>
-      <a href={props.MenuItem.link}>{props.MenuItem.text}</a>
+      <a href="https://guram21.github.io/cra1/">{props.MenuItem.text}</a>
     </li>
   )
 }
