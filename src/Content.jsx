@@ -22,9 +22,9 @@ function Content () {
           It has a quickly growing developer adoption rate and<br/>
           was ranked as the most loved language or technology in the<br/>
           <a
-            href="https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted"
-            target="_blank" rel="noopener"> 2019 Stackoverflow developer
-            survey</a>.<br/>
+            href="https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted">
+            2019 Stackoverflow developer survey
+          </a>.<br/>
         </p>
       </div>
     </main>
