@@ -1,16 +1,16 @@
 import React, { useState } from 'react'
 
 function Counter (props) {
-  const [count, setCount] = useState(props.startCount)
+  const [count, setCount] = useState(props.count)
 
   const countChangePlusHandler = () => {
     setCount(count + 1)
-    props.countChanges(count + 1)
+    props.plus()
   }
 
   const countChangeMinusHandler = () => {
     setCount(count - 1)
-    props.countChanges(count - 1)
+    props.minus()
   }
 
   return (

@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Counter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cra1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cra1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +141,7 @@
       <workItem from="1581179212541" duration="1677000" />
       <workItem from="1581791987106" duration="429000" />
       <workItem from="1581824700964" duration="1977000" />
-      <workItem from="1582140025897" duration="9371000" />
+      <workItem from="1582140025897" duration="11786000" />
     </task>
     <task id="LOCAL-00002" summary="Project cra1 refactored">
       <created>1581733550024</created>
@@ -161,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581792284309</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UseState, props and function">
+      <created>1582159579103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582159579103</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +192,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project cra1 refactored" />
     <MESSAGE value="Content.jsx refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content.jsx refactored" />
+    <MESSAGE value="UseState, props and function" />
+    <option name="LAST_COMMIT_MESSAGE" value="UseState, props and function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="413" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581725505386">
@@ -200,10 +204,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="493" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1581721567032" />
-    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1581792283754">
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1582159578467">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1581792283754" />
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582159578467" />
     <state width="1259" height="69" key="GridCell.Tab.0.bottom" timestamp="1582145512444">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -232,16 +236,20 @@
     <state width="2539" height="424" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500880" />
     <state width="285" height="203" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580871469002" />
     <state width="1511" height="232" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581733953622" />
+    <state x="351" y="123" key="MultipleFileMergeDialog" timestamp="1582159650017">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="351" y="123" key="MultipleFileMergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1582159650017" />
     <state x="283" y="78" key="SettingsEditor" timestamp="1582144373055">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="283" y="78" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1582144373055" />
     <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1580765216459" />
     <state x="789" y="376" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1581733721794" />
-    <state x="385" y="263" key="Vcs.Push.Dialog.v2" timestamp="1581792287254">
+    <state x="385" y="263" key="Vcs.Push.Dialog.v2" timestamp="1582159760719">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="385" y="263" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1581792287254" />
+    <state x="385" y="263" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582159760719" />
     <state x="770" y="489" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1581733557454" />
     <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581791828881">
       <screen x="0" y="0" width="1280" height="800" />

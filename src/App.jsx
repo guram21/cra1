@@ -43,7 +43,6 @@ const footerItems = [
 const text = 'CRA | 2020'
 
 const c1 = 0, c2 = 0
-const tc = c1 + c2
 
 function App () {
 
@@ -54,15 +53,20 @@ function App () {
     setTotalCount(value)
   }
 
-  const [totalCount, setTotalCount] = useState(tc)
+  const [totalCount, setTotalCount] = useState(c1 + c2)
+
+  const plus = () => setTotalCount(c => c + 1)
+
+  const minus = () => setTotalCount(c => c -1)
+
 
   return (
     <div>
       <Header items={headerItems}/>
       <Content bc={buttonClicked}/>
       Total: {totalCount}
-      <Counter startCount={c1} countChanges={countChanges}/>
-      <Counter startCount={c2} countChanges={countChanges}/>
+      <Counter count={c1} plus={plus} minus={minus}/>
+      <Counter count={c2} plus={plus} minus={minus}/>
       <Footer menu1={headerItems} menu2={footerItems} text={text}/>
     </div>
   )
