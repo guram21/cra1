@@ -13,6 +13,10 @@ function Counter (props) {
     props.minus()
   }
 
+  const reset = () => {
+
+  }
+
   return (
     <div>
       <button onClick={countChangeMinusHandler}>-</button>
