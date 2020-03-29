@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="Counter">
+    <list default="true" id="f696315b-e3cf-4c6a-81b1-13e3edc15140" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,8 @@
       <workItem from="1581791987106" duration="429000" />
       <workItem from="1581824700964" duration="1977000" />
       <workItem from="1582140025897" duration="13547000" />
-      <workItem from="1582662472189" duration="535000" />
+      <workItem from="1582662472189" duration="607000" />
+      <workItem from="1585452625305" duration="472000" />
     </task>
     <task id="LOCAL-00002" summary="Project cra1 refactored">
       <created>1581733550024</created>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582162411755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Counter reset buttons removed">
+      <created>1582663227791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582663227792</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +209,8 @@
     <MESSAGE value="Content.jsx refactored" />
     <MESSAGE value="UseState, props and function" />
     <MESSAGE value="Counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Counter" />
+    <MESSAGE value="Counter reset buttons removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counter reset buttons removed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="413" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581725505386">
@@ -212,36 +221,36 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="493" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1581721567032" />
-    <state x="223" y="45" width="833" height="777" key="CommitChangelistDialog2" timestamp="1582662543581">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582162411384" />
-    <state x="223" y="45" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1582662543581" />
-    <state width="1259" height="69" key="GridCell.Tab.0.bottom" timestamp="1582145512444">
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1582663227331">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="69" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582145512444" />
+    <state x="223" y="23" width="833" height="777" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582663227331" />
+    <state x="223" y="45" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1582662543581" />
+    <state width="1259" height="63" key="GridCell.Tab.0.bottom" timestamp="1582663248115">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="63" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582663248115" />
     <state width="2539" height="424" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500881" />
     <state width="285" height="203" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580871469002" />
     <state width="1511" height="232" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1581733953622" />
-    <state width="1259" height="69" key="GridCell.Tab.0.center" timestamp="1582145512442">
+    <state width="1259" height="63" key="GridCell.Tab.0.center" timestamp="1582663248113">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="69" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582145512442" />
+    <state width="1259" height="63" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582663248113" />
     <state width="2539" height="424" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500879" />
     <state width="285" height="203" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580871469001" />
     <state width="1511" height="232" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1581733953621" />
-    <state width="1259" height="69" key="GridCell.Tab.0.left" timestamp="1582145512440">
+    <state width="1259" height="63" key="GridCell.Tab.0.left" timestamp="1582663248112">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="69" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582145512440" />
+    <state width="1259" height="63" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582663248112" />
     <state width="2539" height="424" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500878" />
     <state width="285" height="203" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580871469000" />
     <state width="1511" height="232" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1581733953621" />
-    <state width="1259" height="69" key="GridCell.Tab.0.right" timestamp="1582145512443">
+    <state width="1259" height="63" key="GridCell.Tab.0.right" timestamp="1582663248114">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="69" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582145512443" />
+    <state width="1259" height="63" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582663248114" />
     <state width="2539" height="424" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1580785500880" />
     <state width="285" height="203" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580871469002" />
     <state width="1511" height="232" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581733953622" />
@@ -255,19 +264,20 @@
     <state x="283" y="78" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1582144373055" />
     <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1580765216459" />
     <state x="789" y="376" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1581733721794" />
-    <state x="385" y="263" key="Vcs.Push.Dialog.v2" timestamp="1582162413727">
+    <state x="385" y="263" key="Vcs.Push.Dialog.v2" timestamp="1582663230781">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="385" y="263" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582162413727" />
+    <state x="385" y="263" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582663230781" />
     <state x="770" y="489" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1581733557454" />
     <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581791828881">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1581791828881" />
-    <state x="500" y="286" key="git4idea.merge.GitPullDialog" timestamp="1581791839363">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="531" y="275" key="git4idea.merge.GitPullDialog" timestamp="1585452638262">
+      <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="500" y="286" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1581791839363" />
+    <state x="531" y="275" key="git4idea.merge.GitPullDialog/0.0.1360.768@0.0.1360.768" timestamp="1585452638262" />
     <state x="999" y="515" key="git4idea.merge.GitPullDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1581449396200" />
     <state x="999" y="530" key="git4idea.merge.GitPullDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1580780329318" />
     <state x="101" y="419" width="670" height="676" key="search.everywhere.popup" timestamp="1581622885144">
