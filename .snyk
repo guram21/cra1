@@ -2728,3 +2728,5 @@ patch:
         patched: '2021-04-08T22:39:57.018Z'
     - react-scripts > jest > jest-cli > @jest/core > jest-runner > jest-runtime > jest-config > babel-jest > babel-preset-jest > babel-plugin-jest-hoist > @types/babel__core > @types/babel__traverse > @babel/types > lodash:
         patched: '2021-04-08T22:39:57.018Z'
+    - snyk > snyk-nodejs-lockfile-parser > @yarnpkg/core > lodash:
+        patched: '2021-04-08T22:42:16.547Z'
